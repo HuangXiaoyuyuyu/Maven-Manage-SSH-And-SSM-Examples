@@ -1,0 +1,5 @@
+这是一个基于maven管理SSH（Struts+Hibernate+Spring）的整合
+使用的IDE是业界常用的Eclipse
+里面还包含一个实例 希望对大家有帮助
+具体的版本见项目中的pom.xml
+有任何疑问欢迎留言
