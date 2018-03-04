@@ -1,0 +1,3 @@
+org\hxy\entity\Customer.class
+org\hxy\dao\impl\CustomerDaoImpl.class
+org\hxy\dao\CustomerDao.class
